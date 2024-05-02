@@ -1,0 +1,33 @@
+button{
+    background-color: rgb(135, 161, 255);
+     display: flex;
+    margin-top: 20px;
+    margin-left: 90px;
+    width: 100px;
+    border-radius: 30px;
+    padding-left: 30px;
+
+  
+}
+input{
+    width: 200px;
+ height: 20px;
+ border-radius: 25px;
+ margin-left: 40px;
+}
+
+p{
+    margin-left: 90px;
+}
+div{
+    margin-left: 750px;
+    margin-top: 300px;
+    -webkit-box-shadow: 5px 5px 15px 5px #000000; 
+    box-shadow: 5px 5px 15px 5px #000000;
+    width: 300px;
+    height: 300px;
+    border-radius: 25px;
+}
+h1{
+    margin-left: 50px;
+}
